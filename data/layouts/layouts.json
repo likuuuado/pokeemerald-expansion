@@ -4410,6 +4410,166 @@
       "secondary_tileset": "gTileset_MysteryEventsHouse",
       "border_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/border.bin",
       "blockdata_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/map.bin"
+    },
+    {
+      "id": "LAYOUT_PUEBLO_SEBECE",
+      "name": "PuebloSebece_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/PuebloSebece/border.bin",
+      "blockdata_filepath": "data/layouts/PuebloSebece/map.bin"
+    },
+    {
+      "id": "LAYOUT_COSTA_DITOPLAYA",
+      "name": "CostaDitoplaya_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CostaDitoplaya/border.bin",
+      "blockdata_filepath": "data/layouts/CostaDitoplaya/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIUDAD_NIAMATINA",
+      "name": "CiudadNiamatina_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CiudadNiamatina/border.bin",
+      "blockdata_filepath": "data/layouts/CiudadNiamatina/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIUDAD_MONROSATE",
+      "name": "CiudadMonrosate_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CiudadMonrosate/border.bin",
+      "blockdata_filepath": "data/layouts/CiudadMonrosate/map.bin"
+    },
+    {
+      "id": "LAYOUT_PUEBLO_GOCHAMI",
+      "name": "PuebloGochami_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/PuebloGochami/border.bin",
+      "blockdata_filepath": "data/layouts/PuebloGochami/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIUDAD_NIONU",
+      "name": "CiudadNionu_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CiudadNionu/border.bin",
+      "blockdata_filepath": "data/layouts/CiudadNionu/map.bin"
+    },
+    {
+      "id": "LAYOUT_VOLCAN_MONROSATE_P1",
+      "name": "VolcanMonrosate_P1_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/VolcanMonrosate_P1/border.bin",
+      "blockdata_filepath": "data/layouts/VolcanMonrosate_P1/map.bin"
+    },
+    {
+      "id": "LAYOUT_VOLCAN_MONROSATE_P2",
+      "name": "VolcanMonrosate_P2_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/VolcanMonrosate_P2/border.bin",
+      "blockdata_filepath": "data/layouts/VolcanMonrosate_P2/map.bin"
+    },
+    {
+      "id": "LAYOUT_VOLCAN_MONROSATE_P3",
+      "name": "VolcanMonrosate_P3_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/VolcanMonrosate_P3/border.bin",
+      "blockdata_filepath": "data/layouts/VolcanMonrosate_P3/map.bin"
+    },
+    {
+      "id": "LAYOUT_VOLCAN_MONROSATE_P4",
+      "name": "VolcanMonrosate_P4_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/VolcanMonrosate_P4/border.bin",
+      "blockdata_filepath": "data/layouts/VolcanMonrosate_P4/map.bin"
+    },
+    {
+      "id": "LAYOUT_VOLCAN_MONROSATE_P5",
+      "name": "VolcanMonrosate_P5_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/VolcanMonrosate_P5/border.bin",
+      "blockdata_filepath": "data/layouts/VolcanMonrosate_P5/map.bin"
+    },
+    {
+      "id": "LAYOUT_VOLCAN_MONROSATE_P6",
+      "name": "VolcanMonrosate_P6_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/VolcanMonrosate_P6/border.bin",
+      "blockdata_filepath": "data/layouts/VolcanMonrosate_P6/map.bin"
+    },
+    {
+      "id": "LAYOUT_VOLCAN_MONROSATE_NUCLEO",
+      "name": "VolcanMonrosate_Nucleo_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/VolcanMonrosate_Nucleo/border.bin",
+      "blockdata_filepath": "data/layouts/VolcanMonrosate_Nucleo/map.bin"
+    },
+    {
+      "id": "LAYOUT_VOLCAN_MONROSATE_CAMARA_HEATRAN",
+      "name": "VolcanMonrosate_Camara_Heatran_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/VolcanMonrosate_Camara_Heatran/border.bin",
+      "blockdata_filepath": "data/layouts/VolcanMonrosate_Camara_Heatran/map.bin"
+    },
+    {
+      "id": "LAYOUT_TUNEL_LAVADITO",
+      "name": "TunelLavadito_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/TunelLavadito/border.bin",
+      "blockdata_filepath": "data/layouts/TunelLavadito/map.bin"
+    },
+    {
+      "id": "LAYOUT_DESIERTO_PALO",
+      "name": "DesiertoPalo_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/DesiertoPalo/border.bin",
+      "blockdata_filepath": "data/layouts/DesiertoPalo/map.bin"
     }
   ]
 }

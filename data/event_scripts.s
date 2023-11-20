@@ -1059,3 +1059,35 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/text/frontier_brain.inc"
 	.include "data/text/save.inc"
 	.include "data/text/birch_speech.inc"
+
+	.include "data/maps/PuebloSebece/scripts.inc"
+
+	.include "data/maps/CostaDitoplaya/scripts.inc"
+
+	.include "data/maps/CiudadNiamatina/scripts.inc"
+
+	.include "data/maps/CiudadMonrosate/scripts.inc"
+
+	.include "data/maps/PuebloGochami/scripts.inc"
+
+	.include "data/maps/CiudadNionu/scripts.inc"
+
+	.include "data/maps/VolcanMonrosate_P1/scripts.inc"
+
+	.include "data/maps/VolcanMonrosate_P2/scripts.inc"
+
+	.include "data/maps/VolcanMonrosate_P3/scripts.inc"
+
+	.include "data/maps/VolcanMonrosate_P4/scripts.inc"
+
+	.include "data/maps/VolcanMonrosate_P5/scripts.inc"
+
+	.include "data/maps/VolcanMonrosate_P6/scripts.inc"
+
+	.include "data/maps/VolcanMonrosate_Nucleo/scripts.inc"
+
+	.include "data/maps/VolcanMonrosate_Camara_Heatran/scripts.inc"
+
+	.include "data/maps/TunelLavadito/scripts.inc"
+
+	.include "data/maps/DesiertoPalo/scripts.inc"

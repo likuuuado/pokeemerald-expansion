@@ -63,6 +63,12 @@
 #define MAP_UNDERWATER_ROUTE129 (54 | (0 << 8))
 #define MAP_UNDERWATER_ROUTE105 (55 | (0 << 8))
 #define MAP_UNDERWATER_ROUTE125 (56 | (0 << 8))
+#define MAP_PUEBLO_SEBECE       (57 | (0 << 8))
+#define MAP_COSTA_DITOPLAYA     (58 | (0 << 8))
+#define MAP_CIUDAD_NIAMATINA    (59 | (0 << 8))
+#define MAP_CIUDAD_MONROSATE    (60 | (0 << 8))
+#define MAP_PUEBLO_GOCHAMI      (61 | (0 << 8))
+#define MAP_CIUDAD_NIONU        (62 | (0 << 8))
 
 // gMapGroup_IndoorLittleroot
 #define MAP_LITTLEROOT_TOWN_BRENDANS_HOUSE_1F    (0 | (1 << 8))
@@ -400,6 +406,16 @@
 #define MAP_TERRA_CAVE_END                           (105 | (24 << 8))
 #define MAP_ALTERING_CAVE                            (106 | (24 << 8))
 #define MAP_METEOR_FALLS_STEVENS_CAVE                (107 | (24 << 8))
+#define MAP_VOLCAN_MONROSATE_P1                      (108 | (24 << 8))
+#define MAP_VOLCAN_MONROSATE_P2                      (109 | (24 << 8))
+#define MAP_VOLCAN_MONROSATE_P3                      (110 | (24 << 8))
+#define MAP_VOLCAN_MONROSATE_P4                      (111 | (24 << 8))
+#define MAP_VOLCAN_MONROSATE_P5                      (112 | (24 << 8))
+#define MAP_VOLCAN_MONROSATE_P6                      (113 | (24 << 8))
+#define MAP_VOLCAN_MONROSATE_NUCLEO                  (114 | (24 << 8))
+#define MAP_VOLCAN_MONROSATE_CAMARA_HEATRAN          (115 | (24 << 8))
+#define MAP_TUNEL_LAVADITO                           (116 | (24 << 8))
+#define MAP_DESIERTO_PALO                            (117 | (24 << 8))
 
 // gMapGroup_IndoorDynamic
 #define MAP_SECRET_BASE_RED_CAVE1    (0 | (25 << 8))
