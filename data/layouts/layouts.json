@@ -4570,6 +4570,66 @@
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/DesiertoPalo/border.bin",
       "blockdata_filepath": "data/layouts/DesiertoPalo/map.bin"
+    },
+    {
+      "id": "LAYOUT_RUTA21",
+      "name": "Ruta21_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Ruta21/border.bin",
+      "blockdata_filepath": "data/layouts/Ruta21/map.bin"
+    },
+    {
+      "id": "LAYOUT_RUTA18",
+      "name": "Ruta18_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Ruta18/border.bin",
+      "blockdata_filepath": "data/layouts/Ruta18/map.bin"
+    },
+    {
+      "id": "LAYOUT_RUTA12",
+      "name": "Ruta12_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Ruta12/border.bin",
+      "blockdata_filepath": "data/layouts/Ruta12/map.bin"
+    },
+    {
+      "id": "LAYOUT_RUTA11",
+      "name": "Ruta11_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Ruta11/border.bin",
+      "blockdata_filepath": "data/layouts/Ruta11/map.bin"
+    },
+    {
+      "id": "LAYOUT_RUTA15",
+      "name": "Ruta15_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Ruta15/border.bin",
+      "blockdata_filepath": "data/layouts/Ruta15/map.bin"
+    },
+    {
+      "id": "LAYOUT_RUTA14",
+      "name": "Ruta14_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Ruta14/border.bin",
+      "blockdata_filepath": "data/layouts/Ruta14/map.bin"
     }
   ]
 }

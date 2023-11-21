@@ -1,32 +1,32 @@
 static const struct CityMapEntry sPokenavCityMaps[NUM_CITY_MAPS] =
 {
     {
-        .mapSecId = MAPSEC_LITTLEROOT_TOWN,
+        .mapSecId = MAPSEC_PUEBLO_SEBECE,
         .index = 0,
         .tilemap = gPokenavCityMap_Littleroot_0,
     },
     {
-        .mapSecId = MAPSEC_OLDALE_TOWN,
+        .mapSecId = MAPSEC_COSTA_DITOPLAYA,
         .index = 0,
         .tilemap = gPokenavCityMap_Oldale_0,
     },
     {
-        .mapSecId = MAPSEC_DEWFORD_TOWN,
+        .mapSecId = MAPSEC_CIUDAD_NIAMATINA,
         .index = 0,
         .tilemap = gPokenavCityMap_Dewford_0,
     },
     {
-        .mapSecId = MAPSEC_LAVARIDGE_TOWN,
+        .mapSecId = MAPSEC_CIUDAD_MONROSATE,
         .index = 0,
         .tilemap = gPokenavCityMap_Lavaridge_0,
     },
     {
-        .mapSecId = MAPSEC_FALLARBOR_TOWN,
+        .mapSecId = MAPSEC_PUEBLO_GOCHAMI,
         .index = 0,
         .tilemap = gPokenavCityMap_Fallarbor_0,
     },
     {
-        .mapSecId = MAPSEC_VERDANTURF_TOWN,
+        .mapSecId = MAPSEC_CIUDAD_NIONU,
         .index = 0,
         .tilemap = gPokenavCityMap_Verdanturf_0,
     },

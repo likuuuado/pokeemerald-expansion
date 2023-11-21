@@ -1091,3 +1091,15 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/TunelLavadito/scripts.inc"
 
 	.include "data/maps/DesiertoPalo/scripts.inc"
+
+	.include "data/maps/Ruta21/scripts.inc"
+
+	.include "data/maps/Ruta18/scripts.inc"
+
+	.include "data/maps/Ruta12/scripts.inc"
+
+	.include "data/maps/Ruta11/scripts.inc"
+
+	.include "data/maps/Ruta15/scripts.inc"
+
+	.include "data/maps/Ruta14/scripts.inc"

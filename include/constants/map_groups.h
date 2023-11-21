@@ -69,6 +69,12 @@
 #define MAP_CIUDAD_MONROSATE    (60 | (0 << 8))
 #define MAP_PUEBLO_GOCHAMI      (61 | (0 << 8))
 #define MAP_CIUDAD_NIONU        (62 | (0 << 8))
+#define MAP_RUTA21              (63 | (0 << 8))
+#define MAP_RUTA18              (64 | (0 << 8))
+#define MAP_RUTA12              (65 | (0 << 8))
+#define MAP_RUTA11              (66 | (0 << 8))
+#define MAP_RUTA15              (67 | (0 << 8))
+#define MAP_RUTA14              (68 | (0 << 8))
 
 // gMapGroup_IndoorLittleroot
 #define MAP_LITTLEROOT_TOWN_BRENDANS_HOUSE_1F    (0 | (1 << 8))
