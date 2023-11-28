@@ -12,7 +12,18 @@
   "allow_running": true,
   "show_map_name": true,
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
-  "connections": 0,
+  "connections": [
+    {
+      "map": "MAP_RUTA18",
+      "offset": 32,
+      "direction": "left"
+    },
+    {
+      "map": "MAP_RUTA15",
+      "offset": -6,
+      "direction": "right"
+    }
+  ],
   "object_events": [
 
   ],
@@ -23,6 +34,13 @@
 
   ],
   "bg_events": [
-
+    {
+      "type": "sign",
+      "x": 13,
+      "y": 24,
+      "elevation": 0,
+      "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
+      "script": "NULL"
+    }
   ]
 }

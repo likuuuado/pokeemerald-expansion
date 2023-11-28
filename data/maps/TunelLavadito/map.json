@@ -17,7 +17,27 @@
 
   ],
   "warp_events": [
-
+    {
+      "x": 9,
+      "y": 31,
+      "elevation": 0,
+      "dest_map": "MAP_CIUDAD_NIONU",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 11,
+      "y": 6,
+      "elevation": 0,
+      "dest_map": "MAP_PUEBLO_GOCHAMI",
+      "dest_warp_id": "4"
+    },
+    {
+      "x": 18,
+      "y": 9,
+      "elevation": 0,
+      "dest_map": "MAP_TUNEL_LAVADITO",
+      "dest_warp_id": "0"
+    }
   ],
   "coord_events": [
 

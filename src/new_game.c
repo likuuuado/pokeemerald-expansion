@@ -124,9 +124,9 @@ static void ClearFrontierRecord(void)
     gSaveBlock2Ptr->frontier.opponentNames[1][0] = EOS;
 }
 
-static void WarpToTruck(void)
+static void WarpToInitialMap(void)
 {
-    SetWarpDestination(MAP_GROUP(INSIDE_OF_TRUCK), MAP_NUM(INSIDE_OF_TRUCK), WARP_ID_NONE, -1, -1);
+    SetWarpDestination(MAP_GROUP(PUEBLO_SEBECE), MAP_NUM(PUEBLO_SEBECE), WARP_ID_NONE, 4, 22);
     WarpIntoMap();
 }
 
@@ -192,7 +192,7 @@ void NewGameInitData(void)
     InitDewfordTrend();
     ResetFanClub();
     ResetLotteryCorner();
-    WarpToTruck();
+    WarpToInitialMap();
     RunScriptImmediately(EventScript_ResetAllMapFlags);
     ResetMiniGamesRecords();
     InitUnionRoomChatRegisteredTexts();

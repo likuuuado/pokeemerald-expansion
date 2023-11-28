@@ -12,12 +12,64 @@
   "allow_running": true,
   "show_map_name": true,
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
-  "connections": 0,
+  "connections": [
+    {
+      "map": "MAP_RUTA15",
+      "offset": 0,
+      "direction": "left"
+    },
+    {
+      "map": "MAP_RUTA14",
+      "offset": -18,
+      "direction": "right"
+    }
+  ],
   "object_events": [
 
   ],
   "warp_events": [
-
+    {
+      "x": 26,
+      "y": 6,
+      "elevation": 0,
+      "dest_map": "MAP_PUEBLO_GOCHAMI",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 25,
+      "y": 6,
+      "elevation": 0,
+      "dest_map": "MAP_PUEBLO_GOCHAMI",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 9,
+      "y": 14,
+      "elevation": 0,
+      "dest_map": "MAP_TUNEL_LAVADITO",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 10,
+      "y": 23,
+      "elevation": 0,
+      "dest_map": "MAP_PUEBLO_GOCHAMI",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 5,
+      "y": 28,
+      "elevation": 0,
+      "dest_map": "MAP_TUNEL_LAVADITO",
+      "dest_warp_id": "1"
+    },
+    {
+      "x": 17,
+      "y": 10,
+      "elevation": 0,
+      "dest_map": "MAP_PUEBLO_GOCHAMI",
+      "dest_warp_id": "0"
+    }
   ],
   "coord_events": [
 

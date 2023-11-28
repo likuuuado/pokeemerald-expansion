@@ -17,7 +17,48 @@
 
   ],
   "warp_events": [
-
+    {
+      "x": 29,
+      "y": 14,
+      "elevation": 0,
+      "dest_map": "MAP_TUNEL_LAVADITO",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 29,
+      "y": 24,
+      "elevation": 0,
+      "dest_map": "MAP_CIUDAD_NIONU",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 12,
+      "y": 9,
+      "elevation": 0,
+      "dest_map": "MAP_CIUDAD_NIONU",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 21,
+      "y": 15,
+      "elevation": 0,
+      "dest_map": "MAP_CIUDAD_NIONU",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 20,
+      "y": 10,
+      "elevation": 0,
+      "dest_map": "MAP_CIUDAD_NIONU",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 10,
+      "y": 15,
+      "elevation": 0,
+      "dest_map": "MAP_CIUDAD_NIONU",
+      "dest_warp_id": "0"
+    }
   ],
   "coord_events": [
 

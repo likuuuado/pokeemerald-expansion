@@ -12,12 +12,66 @@
   "allow_running": true,
   "show_map_name": true,
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
-  "connections": 0,
+  "connections": [
+    {
+      "map": "MAP_RUTA14",
+      "offset": -8,
+      "direction": "down"
+    }
+  ],
   "object_events": [
 
   ],
   "warp_events": [
-
+    {
+      "x": 15,
+      "y": 34,
+      "elevation": 0,
+      "dest_map": "MAP_CIUDAD_MONROSATE",
+      "dest_warp_id": "1"
+    },
+    {
+      "x": 3,
+      "y": 15,
+      "elevation": 0,
+      "dest_map": "MAP_CIUDAD_MONROSATE",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 23,
+      "y": 10,
+      "elevation": 0,
+      "dest_map": "MAP_CIUDAD_MONROSATE",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 29,
+      "y": 20,
+      "elevation": 0,
+      "dest_map": "MAP_VOLCAN_MONROSATE_CAMARA_HEATRAN",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 13,
+      "y": 19,
+      "elevation": 0,
+      "dest_map": "MAP_CIUDAD_MONROSATE",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "elevation": 0,
+      "dest_map": "MAP_CIUDAD_MONROSATE",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 9,
+      "y": 23,
+      "elevation": 0,
+      "dest_map": "MAP_CIUDAD_MONROSATE",
+      "dest_warp_id": "0"
+    }
   ],
   "coord_events": [
 

@@ -12,15 +12,103 @@
   "allow_running": true,
   "show_map_name": true,
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
-  "connections": 0,
+  "connections": [
+    {
+      "map": "MAP_PUEBLO_SEBECE",
+      "offset": -2,
+      "direction": "down"
+    },
+    {
+      "map": "MAP_COSTA_DITOPLAYA",
+      "offset": -6,
+      "direction": "right"
+    }
+  ],
   "object_events": [
-
+    {
+      "graphics_id": "OBJ_EVENT_GFX_BUG_CATCHER",
+      "x": 17,
+      "y": 6,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_NONE",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NONE",
+      "trainer_sight_or_berry_tree_id": "0",
+      "script": "NULL",
+      "flag": "0"
+    },
+    {
+      "graphics_id": "OBJ_EVENT_GFX_CAMPER",
+      "x": 6,
+      "y": 11,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_NONE",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_SEE_ALL_DIRECTIONS",
+      "trainer_sight_or_berry_tree_id": "0",
+      "script": "NULL",
+      "flag": "0"
+    },
+    {
+      "graphics_id": "OBJ_EVENT_GFX_WALLY",
+      "x": 9,
+      "y": 24,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_NONE",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NONE",
+      "trainer_sight_or_berry_tree_id": "0",
+      "script": "NULL",
+      "flag": "0"
+    },
+    {
+      "graphics_id": "OBJ_EVENT_GFX_BIRCHS_BAG",
+      "x": 10,
+      "y": 24,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_NONE",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NONE",
+      "trainer_sight_or_berry_tree_id": "0",
+      "script": "NULL",
+      "flag": "0"
+    }
   ],
   "warp_events": [
 
   ],
   "coord_events": [
-
+    {
+      "type": "trigger",
+      "x": 9,
+      "y": 27,
+      "elevation": 0,
+      "var": "VAR_TEMP_MIXED_RECORDS",
+      "var_value": "0",
+      "script": "NULL"
+    },
+    {
+      "type": "trigger",
+      "x": 30,
+      "y": 7,
+      "elevation": 0,
+      "var": "VAR_TEMP_MIXED_RECORDS",
+      "var_value": "0",
+      "script": "NULL"
+    },
+    {
+      "type": "trigger",
+      "x": 30,
+      "y": 6,
+      "elevation": 0,
+      "var": "VAR_TEMP_MIXED_RECORDS",
+      "var_value": "0",
+      "script": "NULL"
+    }
   ],
   "bg_events": [
 

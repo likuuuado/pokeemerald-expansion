@@ -12,7 +12,23 @@
   "allow_running": true,
   "show_map_name": true,
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
-  "connections": 0,
+  "connections": [
+    {
+      "map": "MAP_COSTA_DITOPLAYA",
+      "offset": -16,
+      "direction": "down"
+    },
+    {
+      "map": "MAP_RUTA12",
+      "offset": -32,
+      "direction": "right"
+    },
+    {
+      "map": "MAP_CIUDAD_NIAMATINA",
+      "offset": -20,
+      "direction": "left"
+    }
+  ],
   "object_events": [
 
   ],
