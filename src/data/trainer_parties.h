@@ -339,15 +339,15 @@ static const struct TrainerMon sParty_Leah[] = {
     .species = SPECIES_SPOINK,
     }
 };
-
+// TRAINER TOBIAS
 static const struct TrainerMon sParty_Daisy[] = {
     {
-    .lvl = 14,
-    .species = SPECIES_SHROOMISH,
+    .lvl = 6,
+    .species = SPECIES_ODDISH,
     },
     {
-    .lvl = 14,
-    .species = SPECIES_ROSELIA,
+    .lvl = 7,
+    .species = SPECIES_PIDGEY,
     }
 };
 
@@ -4269,15 +4269,15 @@ static const struct TrainerMon sParty_Wallace[] = {
 static const struct TrainerMon sParty_Andrew[] = {
     {
     .lvl = 5,
-    .species = SPECIES_MAGIKARP,
+    .species = SPECIES_NINCADA,
     },
     {
-    .lvl = 10,
-    .species = SPECIES_TENTACOOL,
+    .lvl = 6,
+    .species = SPECIES_WURMPLE,
     },
     {
-    .lvl = 15,
-    .species = SPECIES_MAGIKARP,
+    .lvl = 6,
+    .species = SPECIES_WEEDLE,
     }
 };
 

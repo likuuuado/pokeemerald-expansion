@@ -432,12 +432,12 @@ const struct Trainer gTrainers[] = {
         .party = TRAINER_PARTY(sParty_Leah),
     },
 
-    [TRAINER_DAISY] =
+    [TRAINER_TOBIAS] =
     {
-        .trainerClass = TRAINER_CLASS_AROMA_LADY,
+        .trainerClass = TRAINER_CLASS_CAMPER,
         .encounterMusic_gender = F_TRAINER_FEMALE | TRAINER_ENCOUNTER_MUSIC_FEMALE,
-        .trainerPic = TRAINER_PIC_AROMA_LADY,
-        .trainerName = _("DAISY"),
+        .trainerPic = TRAINER_PIC_CAMPER,
+        .trainerName = _("Tobias"),
         .items = {},
         .doubleBattle = FALSE,
         .aiFlags = AI_FLAG_CHECK_BAD_MOVE,
@@ -4031,13 +4031,13 @@ const struct Trainer gTrainers[] = {
         .aiFlags = AI_FLAG_CHECK_BAD_MOVE | AI_FLAG_TRY_TO_FAINT | AI_FLAG_CHECK_VIABILITY,
         .party = TRAINER_PARTY(sParty_Wallace),
     },
-
-    [TRAINER_ANDREW] =
+// ANDREW
+    [TRAINER_SANTI] =
     {
-        .trainerClass = TRAINER_CLASS_FISHERMAN,
+        .trainerClass = TRAINER_CLASS_BUG_CATCHER,
         .encounterMusic_gender = TRAINER_ENCOUNTER_MUSIC_HIKER,
-        .trainerPic = TRAINER_PIC_FISHERMAN,
-        .trainerName = _("ANDREW"),
+        .trainerPic = TRAINER_PIC_BUG_CATCHER,
+        .trainerName = _("SANTI"),
         .items = {},
         .doubleBattle = FALSE,
         .aiFlags = AI_FLAG_CHECK_BAD_MOVE,
