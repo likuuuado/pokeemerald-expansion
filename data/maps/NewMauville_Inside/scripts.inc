@@ -25,15 +25,15 @@ NewMauville_Inside_OnTransition:
 	end
 
 NewMauville_Inside_EventScript_ShowVoltorb1::
-	clearflag FLAG_HIDE_NEW_MAUVILLE_VOLTORB_1
+	clearflag FLAG_EL_RARO_1
 	return
 
 NewMauville_Inside_EventScript_ShowVoltorb2::
-	clearflag FLAG_HIDE_NEW_MAUVILLE_VOLTORB_2
+	clearflag FLAG_EL_RARO_2
 	return
 
 NewMauville_Inside_EventScript_ShowVoltorb3::
-	clearflag FLAG_HIDE_NEW_MAUVILLE_VOLTORB_3
+	clearflag FLAG_EL_RARO_3
 	return
 
 NewMauville_Inside_OnLoad:

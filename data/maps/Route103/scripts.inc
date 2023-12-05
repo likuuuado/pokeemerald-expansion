@@ -201,8 +201,8 @@ Route103_EventScript_RouteSign::
 	msgbox Route103_Text_RouteSign, MSGBOX_SIGN
 	end
 
-Route103_EventScript_Daisy::
-	trainerbattle_single TRAINER_DAISY, Route103_Text_DaisyIntro, Route103_Text_DaisyDefeated
+Route103_EventScript_Daisy:: @EN USO
+	trainerbattle_single TRAINER_TOBIAS, Route103_Text_DaisyIntro, Route103_Text_DaisyDefeated
 	msgbox Route103_Text_DaisyPostBattle, MSGBOX_AUTOCLOSE
 	end
 
@@ -242,8 +242,8 @@ Route102_EventScript_LivRematch::
 	msgbox Route103_Text_LivRematchPostBattle, MSGBOX_AUTOCLOSE
 	end
 
-Route103_EventScript_Andrew::
-	trainerbattle_single TRAINER_ANDREW, Route103_Text_AndrewIntro, Route103_Text_AndrewDefeated
+Route103_EventScript_Andrew:: @EN USO
+	trainerbattle_single TRAINER_SANTI, Route103_Text_AndrewIntro, Route103_Text_AndrewDefeated
 	msgbox Route103_Text_AndrewPostBattle, MSGBOX_AUTOCLOSE
 	end
 

@@ -37,7 +37,7 @@
 #define TRAINER_SHELLY_SEAFLOOR_CAVERN       33
 #define TRAINER_ARCHIE                       34
 #define TRAINER_LEAH                         35
-#define TRAINER_DAISY                        36
+#define TRAINER_TOBIAS                       36 //sParty daisy
 #define TRAINER_ROSE_1                       37
 #define TRAINER_FELIX                        38
 #define TRAINER_VIOLET                       39
@@ -337,7 +337,7 @@
 #define TRAINER_ALLEN                       333
 #define TRAINER_TIMMY                       334
 #define TRAINER_WALLACE                     335
-#define TRAINER_ANDREW                      336
+#define TRAINER_SANTI                       336 // sParty ANDREW
 #define TRAINER_IVAN                        337
 #define TRAINER_CLAUDE                      338
 #define TRAINER_ELLIOT_1                    339

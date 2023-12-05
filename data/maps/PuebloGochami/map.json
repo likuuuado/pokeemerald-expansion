@@ -30,14 +30,14 @@
   "warp_events": [
     {
       "x": 26,
-      "y": 6,
+      "y": 5,
       "elevation": 0,
       "dest_map": "MAP_PUEBLO_GOCHAMI",
       "dest_warp_id": "0"
     },
     {
       "x": 25,
-      "y": 6,
+      "y": 5,
       "elevation": 0,
       "dest_map": "MAP_PUEBLO_GOCHAMI",
       "dest_warp_id": "0"
