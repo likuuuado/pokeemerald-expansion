@@ -214,7 +214,24 @@
 #define MAPSEC_ALTERING_CAVE                0xD2
 #define MAPSEC_NAVEL_ROCK                   0xD3
 #define MAPSEC_TRAINER_HILL                 0xD4
-#define MAPSEC_NONE                         0xD5
+#define MAPSEC_LITTLEROOT_TOWN              0xD5
+#define MAPSEC_OLDALE_TOWN                  0xD6
+#define MAPSEC_DEWFORD_TOWN                 0xD7
+#define MAPSEC_LAVARIDGE_TOWN               0xD8
+#define MAPSEC_FALLARBOR_TOWN               0xD9
+#define MAPSEC_VERDANTURF_TOWN              0xDA
+#define MAPSEC_PACIFIDLOG_TOWN              0xDB
+#define MAPSEC_ROUTE_101                    0xDC
+#define MAPSEC_ROUTE_102                    0xDD
+#define MAPSEC_ROUTE_103                    0xDE
+#define MAPSEC_ROUTE_104                    0xDE
+#define MAPSEC_ROUTE_105                    0xE0
+#define MAPSEC_ROUTE_106                    0xE1
+#define MAPSEC_ROUTE_107                    0xE2
+#define MAPSEC_UNDERWATER_SOOTOPOLIS        0xE3
+#define MAPSEC_RUSTURF_TUNNEL               0xE4
+#define MAPSEC_METEOR_FALLS                 0xE5
+#define MAPSEC_NONE                         0xE6
 
 #define METLOC_SPECIAL_EGG                  0xFD
 #define METLOC_IN_GAME_TRADE                0xFE
