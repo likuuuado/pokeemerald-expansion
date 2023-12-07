@@ -75,6 +75,9 @@
 #define MAP_RUTA11              (66 | (0 << 8))
 #define MAP_RUTA15              (67 | (0 << 8))
 #define MAP_RUTA14              (68 | (0 << 8))
+#define MAP_PUEBLO_ADAMAN       (69 | (0 << 8))
+#define MAP_NEW_MAP1            (70 | (0 << 8))
+#define MAP_RUTA9               (71 | (0 << 8))
 
 // gMapGroup_IndoorLittleroot
 #define MAP_LITTLEROOT_TOWN_BRENDANS_HOUSE_1F    (0 | (1 << 8))

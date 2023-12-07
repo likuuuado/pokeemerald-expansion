@@ -7,7 +7,7 @@
 #define MAPSEC_CIUDAD_MONROSATE             0x03
 #define MAPSEC_PUEBLO_GOCHAMI               0x04
 #define MAPSEC_CIUDAD_NIONU                 0x05
-#define MAPSEC_PACIFIDLOG_TOWN              0x06 //despues tengo que cambiarles el mapsec
+#define MAPSEC_PUEBLO_ADAMAN                0x06 //despues tengo que cambiarles el mapsec
 #define MAPSEC_PETALBURG_CITY               0x07
 #define MAPSEC_SLATEPORT_CITY               0x08
 #define MAPSEC_MAUVILLE_CITY                0x09
@@ -23,7 +23,7 @@
 #define MAPSEC_RUTA_11                      0x13
 #define MAPSEC_RUTA_15                      0x14
 #define MAPSEC_RUTA_14                      0x15
-#define MAPSEC_ROUTE_107                    0x16 //despues tengo que cambiarles el mapsec
+#define MAPSEC_RUTA_9                       0x16 //despues tengo que cambiarles el mapsec
 #define MAPSEC_ROUTE_108                    0x17
 #define MAPSEC_ROUTE_109                    0x18
 #define MAPSEC_ROUTE_110                    0x19
@@ -224,7 +224,7 @@
 #define MAPSEC_ROUTE_101                    0xDC
 #define MAPSEC_ROUTE_102                    0xDD
 #define MAPSEC_ROUTE_103                    0xDE
-#define MAPSEC_ROUTE_104                    0xDE
+#define MAPSEC_ROUTE_104                    0xDF
 #define MAPSEC_ROUTE_105                    0xE0
 #define MAPSEC_ROUTE_106                    0xE1
 #define MAPSEC_ROUTE_107                    0xE2

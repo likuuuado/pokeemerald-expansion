@@ -4630,6 +4630,36 @@
       "secondary_tileset": "gTileset_Lavaridge",
       "border_filepath": "data/layouts/Ruta14/border.bin",
       "blockdata_filepath": "data/layouts/Ruta14/map.bin"
+    },
+    {
+      "id": "LAYOUT_PUEBLO_ADAMAN",
+      "name": "PuebloAdaman_Layout",
+      "width": 38,
+      "height": 34,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Lilycove",
+      "border_filepath": "data/layouts/PuebloAdaman/border.bin",
+      "blockdata_filepath": "data/layouts/PuebloAdaman/map.bin"
+    },
+    {
+      "id": "LAYOUT_NEW_MAP1",
+      "name": "NewMap1_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/NewMap1/border.bin",
+      "blockdata_filepath": "data/layouts/NewMap1/map.bin"
+    },
+    {
+      "id": "LAYOUT_RUTA9",
+      "name": "Ruta9_Layout",
+      "width": 68,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Slateport",
+      "border_filepath": "data/layouts/Ruta9/border.bin",
+      "blockdata_filepath": "data/layouts/Ruta9/map.bin"
     }
   ]
 }

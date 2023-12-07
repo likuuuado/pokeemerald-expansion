@@ -1,0 +1,87 @@
+{
+  "id": "MAP_PUEBLO_ADAMAN",
+  "name": "PuebloAdaman",
+  "layout": "LAYOUT_PUEBLO_ADAMAN",
+  "music": "MUS_ABANDONED_SHIP",
+  "region_map_section": "MAPSEC_PUEBLO_ADAMAN",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_TOWN",
+  "allow_cycling": true,
+  "allow_escaping": false,
+  "allow_running": true,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_RUTA11",
+      "offset": -42,
+      "direction": "down"
+    },
+    {
+      "map": "MAP_RUTA12",
+      "offset": 8,
+      "direction": "right"
+    }
+  ],
+  "object_events": [
+
+  ],
+  "warp_events": [
+    {
+      "x": 15,
+      "y": 15,
+      "elevation": 0,
+      "dest_map": "MAP_PUEBLO_ADAMAN",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 22,
+      "y": 18,
+      "elevation": 0,
+      "dest_map": "MAP_PUEBLO_ADAMAN",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 12,
+      "y": 7,
+      "elevation": 0,
+      "dest_map": "MAP_PUEBLO_ADAMAN",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 4,
+      "y": 15,
+      "elevation": 0,
+      "dest_map": "MAP_PUEBLO_ADAMAN",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 21,
+      "y": 24,
+      "elevation": 0,
+      "dest_map": "MAP_PUEBLO_ADAMAN",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 14,
+      "y": 28,
+      "elevation": 0,
+      "dest_map": "MAP_PUEBLO_ADAMAN",
+      "dest_warp_id": "0"
+    }
+  ],
+  "coord_events": [
+
+  ],
+  "bg_events": [
+    {
+      "type": "sign",
+      "x": 14,
+      "y": 19,
+      "elevation": 0,
+      "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
+      "script": "NULL"
+    }
+  ]
+}

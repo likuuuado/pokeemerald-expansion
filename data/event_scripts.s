@@ -1103,3 +1103,9 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/Ruta15/scripts.inc"
 
 	.include "data/maps/Ruta14/scripts.inc"
+
+	.include "data/maps/PuebloAdaman/scripts.inc"
+
+	.include "data/maps/NewMap1/scripts.inc"
+
+	.include "data/maps/Ruta9/scripts.inc"
