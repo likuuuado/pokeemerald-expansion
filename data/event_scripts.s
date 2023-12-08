@@ -1117,3 +1117,33 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/PuebloSebece_Casa_1/scripts.inc"
 
 	.include "data/maps/PuebloSebece_Casa_2/scripts.inc"
+
+	.include "data/maps/CostaDitoplaya_PC/scripts.inc"
+
+	.include "data/maps/CostaDitoplaya_PM/scripts.inc"
+
+	.include "data/maps/CostaDitoplaya_AlmacenP1/scripts.inc"
+
+	.include "data/maps/CiudadNiamatina_PC/scripts.inc"
+
+	.include "data/maps/CiudadNiamatina_PM/scripts.inc"
+
+	.include "data/maps/CiudadNiamatina_Torneo/scripts.inc"
+
+	.include "data/maps/CiudadNiamatina_Casa1_P1/scripts.inc"
+
+	.include "data/maps/CiudadNiamatina_Casa1_P2/scripts.inc"
+
+	.include "data/maps/CiudadNiamatina_Casa2/scripts.inc"
+
+	.include "data/maps/CiudadNiamatina_Bodegon/scripts.inc"
+
+	.include "data/maps/CiudadNiamatina_Escondite/scripts.inc"
+
+	.include "data/maps/CiudadMonrosate_PC/scripts.inc"
+
+	.include "data/maps/CiudadMonrosate_PM/scripts.inc"
+
+	.include "data/maps/CiudadMonrosate_Torneo/scripts.inc"
+
+	.include "data/maps/CiudadMonrosate_Tunel/scripts.inc"

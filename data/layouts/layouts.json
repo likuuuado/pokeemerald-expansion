@@ -4700,6 +4700,156 @@
       "secondary_tileset": "gTileset_GenericBuilding",
       "border_filepath": "data/layouts/PuebloSebece_Casa_2/border.bin",
       "blockdata_filepath": "data/layouts/PuebloSebece_Casa_2/map.bin"
+    },
+    {
+      "id": "LAYOUT_COSTA_DITOPLAYA_PC",
+      "name": "CostaDitoplaya_PC_Layout",
+      "width": 14,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_PokemonCenter",
+      "border_filepath": "data/layouts/CostaDitoplaya_PC/border.bin",
+      "blockdata_filepath": "data/layouts/CostaDitoplaya_PC/map.bin"
+    },
+    {
+      "id": "LAYOUT_COSTA_DITOPLAYA_PM",
+      "name": "CostaDitoplaya_PM_Layout",
+      "width": 10,
+      "height": 8,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_Shop",
+      "border_filepath": "data/layouts/CostaDitoplaya_PM/border.bin",
+      "blockdata_filepath": "data/layouts/CostaDitoplaya_PM/map.bin"
+    },
+    {
+      "id": "LAYOUT_COSTA_DITOPLAYA_ALMACEN_P1",
+      "name": "CostaDitoplaya_AlmacenP1_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CostaDitoplaya_AlmacenP1/border.bin",
+      "blockdata_filepath": "data/layouts/CostaDitoplaya_AlmacenP1/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIUDAD_NIAMATINA_PC",
+      "name": "CiudadNiamatina_PC_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CiudadNiamatina_PC/border.bin",
+      "blockdata_filepath": "data/layouts/CiudadNiamatina_PC/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIUDAD_NIAMATINA_PM",
+      "name": "CiudadNiamatina_PM_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CiudadNiamatina_PM/border.bin",
+      "blockdata_filepath": "data/layouts/CiudadNiamatina_PM/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIUDAD_NIAMATINA_TORNEO",
+      "name": "CiudadNiamatina_Torneo_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CiudadNiamatina_Torneo/border.bin",
+      "blockdata_filepath": "data/layouts/CiudadNiamatina_Torneo/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIUDAD_NIAMATINA_CASA1_P1",
+      "name": "CiudadNiamatina_Casa1_P1_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CiudadNiamatina_Casa1_P1/border.bin",
+      "blockdata_filepath": "data/layouts/CiudadNiamatina_Casa1_P1/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIUDAD_NIAMATINA_CASA1_P2",
+      "name": "CiudadNiamatina_Casa1_P2_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CiudadNiamatina_Casa1_P2/border.bin",
+      "blockdata_filepath": "data/layouts/CiudadNiamatina_Casa1_P2/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIUDAD_NIAMATINA_CASA2",
+      "name": "CiudadNiamatina_Casa2_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CiudadNiamatina_Casa2/border.bin",
+      "blockdata_filepath": "data/layouts/CiudadNiamatina_Casa2/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIUDAD_NIAMATINA_BODEGON",
+      "name": "CiudadNiamatina_Bodegon_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CiudadNiamatina_Bodegon/border.bin",
+      "blockdata_filepath": "data/layouts/CiudadNiamatina_Bodegon/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIUDAD_NIAMATINA_ESCONDITE",
+      "name": "CiudadNiamatina_Escondite_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CiudadNiamatina_Escondite/border.bin",
+      "blockdata_filepath": "data/layouts/CiudadNiamatina_Escondite/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIUDAD_MONROSATE_PC",
+      "name": "CiudadMonrosate_PC_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CiudadMonrosate_PC/border.bin",
+      "blockdata_filepath": "data/layouts/CiudadMonrosate_PC/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIUDAD_MONROSATE_PM",
+      "name": "CiudadMonrosate_PM_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CiudadMonrosate_PM/border.bin",
+      "blockdata_filepath": "data/layouts/CiudadMonrosate_PM/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIUDAD_MONROSATE_TORNEO",
+      "name": "CiudadMonrosate_Torneo_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CiudadMonrosate_Torneo/border.bin",
+      "blockdata_filepath": "data/layouts/CiudadMonrosate_Torneo/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIUDAD_MONROSATE_TUNEL",
+      "name": "CiudadMonrosate_Tunel_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CiudadMonrosate_Tunel/border.bin",
+      "blockdata_filepath": "data/layouts/CiudadMonrosate_Tunel/map.bin"
     }
   ]
 }

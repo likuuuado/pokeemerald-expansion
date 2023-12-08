@@ -71,8 +71,8 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_GIRL_2",
-      "x": 18,
-      "y": 12,
+      "x": 8,
+      "y": 16,
       "elevation": 0,
       "movement_type": "MOVEMENT_TYPE_NONE",
       "movement_range_x": 0,
@@ -109,8 +109,8 @@
       "flag": "0"
     },
     {
-      "graphics_id": "OBJ_EVENT_GFX_DRAKE",
-      "x": 13,
+      "graphics_id": "OBJ_EVENT_GFX_FISHERMAN",
+      "x": 19,
       "y": 14,
       "elevation": 0,
       "movement_type": "MOVEMENT_TYPE_NONE",
@@ -140,14 +140,14 @@
       "x": 9,
       "y": 7,
       "elevation": 0,
-      "dest_map": "MAP_COSTA_DITOPLAYA",
+      "dest_map": "MAP_COSTA_DITOPLAYA_PC",
       "dest_warp_id": "0"
     },
     {
       "x": 13,
       "y": 7,
       "elevation": 0,
-      "dest_map": "MAP_COSTA_DITOPLAYA",
+      "dest_map": "MAP_COSTA_DITOPLAYA_PM",
       "dest_warp_id": "0"
     },
     {

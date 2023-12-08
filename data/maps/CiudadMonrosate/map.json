@@ -45,13 +45,6 @@
       "dest_warp_id": "0"
     },
     {
-      "x": 29,
-      "y": 20,
-      "elevation": 0,
-      "dest_map": "MAP_VOLCAN_MONROSATE_CAMARA_HEATRAN",
-      "dest_warp_id": "0"
-    },
-    {
       "x": 13,
       "y": 19,
       "elevation": 0,
@@ -77,6 +70,13 @@
 
   ],
   "bg_events": [
-
+    {
+      "type": "sign",
+      "x": 29,
+      "y": 20,
+      "elevation": 0,
+      "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
+      "script": "NULL"
+    }
   ]
 }

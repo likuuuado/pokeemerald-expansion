@@ -29,13 +29,7 @@
     }
   ],
   "warp_events": [
-    {
-      "x": 9,
-      "y": 15,
-      "elevation": 0,
-      "dest_map": "MAP_CIUDAD_MONROSATE",
-      "dest_warp_id": "3"
-    }
+
   ],
   "coord_events": [
     {
@@ -49,6 +43,13 @@
     }
   ],
   "bg_events": [
-
+    {
+      "type": "sign",
+      "x": 9,
+      "y": 15,
+      "elevation": 0,
+      "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
+      "script": "NULL"
+    }
   ]
 }

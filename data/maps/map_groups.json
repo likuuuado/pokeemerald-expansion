@@ -659,5 +659,38 @@
     "PuebloSebece_TuPieza",
     "PuebloSebece_Casa_1",
     "PuebloSebece_Casa_2"
+  ],
+  "gMapGroup_InteriorDitoplaya": [
+    "CostaDitoplaya_PC",
+    "CostaDitoplaya_PM",
+    "CostaDitoplaya_AlmacenP1"
+  ],
+  "gMapGroup_InteriorNiamatina": [
+    "CiudadNiamatina_PC",
+    "CiudadNiamatina_PM",
+    "CiudadNiamatina_Torneo",
+    "CiudadNiamatina_Casa1_P1",
+    "CiudadNiamatina_Casa1_P2",
+    "CiudadNiamatina_Casa2",
+    "CiudadNiamatina_Bodegon",
+    "CiudadNiamatina_Escondite"
+  ],
+  "gMapGroup_InteriorMonrosate": [
+    "CiudadMonrosate_PC",
+    "CiudadMonrosate_PM",
+    "CiudadMonrosate_Torneo",
+    "CiudadMonrosate_Tunel"
+  ],
+  "gMapGroup_InteriorGochami": [
+
+  ],
+  "gMapGroup_InteriorNionu": [
+
+  ],
+  "gMapGroup_InteriorAdaman": [
+
+  ],
+  "gMapGroup_InteriorRuta15": [
+
   ]
 }

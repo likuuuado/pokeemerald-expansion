@@ -623,10 +623,25 @@
 #define MAP_PUEBLO_SEBECE_CASA_2   (3 | (34 << 8))
 
 // gMapGroup_InteriorDitoplaya
+#define MAP_COSTA_DITOPLAYA_PC         (0 | (35 << 8))
+#define MAP_COSTA_DITOPLAYA_PM         (1 | (35 << 8))
+#define MAP_COSTA_DITOPLAYA_ALMACEN_P1 (2 | (35 << 8))
 
 // gMapGroup_InteriorNiamatina
+#define MAP_CIUDAD_NIAMATINA_PC        (0 | (36 << 8))
+#define MAP_CIUDAD_NIAMATINA_PM        (1 | (36 << 8))
+#define MAP_CIUDAD_NIAMATINA_TORNEO    (2 | (36 << 8))
+#define MAP_CIUDAD_NIAMATINA_CASA1_P1  (3 | (36 << 8))
+#define MAP_CIUDAD_NIAMATINA_CASA1_P2  (4 | (36 << 8))
+#define MAP_CIUDAD_NIAMATINA_CASA2     (5 | (36 << 8))
+#define MAP_CIUDAD_NIAMATINA_BODEGON   (6 | (36 << 8))
+#define MAP_CIUDAD_NIAMATINA_ESCONDITE (7 | (36 << 8))
 
 // gMapGroup_InteriorMonrosate
+#define MAP_CIUDAD_MONROSATE_PC     (0 | (37 << 8))
+#define MAP_CIUDAD_MONROSATE_PM     (1 | (37 << 8))
+#define MAP_CIUDAD_MONROSATE_TORNEO (2 | (37 << 8))
+#define MAP_CIUDAD_MONROSATE_TUNEL  (3 | (37 << 8))
 
 // gMapGroup_InteriorGochami
 
