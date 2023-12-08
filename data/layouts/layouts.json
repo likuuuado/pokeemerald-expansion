@@ -4660,6 +4660,46 @@
       "secondary_tileset": "gTileset_Slateport",
       "border_filepath": "data/layouts/Ruta9/border.bin",
       "blockdata_filepath": "data/layouts/Ruta9/map.bin"
+    },
+    {
+      "id": "LAYOUT_PUEBLO_SEBECE_TU_CASA",
+      "name": "PuebloSebece_TuCasa_Layout",
+      "width": 10,
+      "height": 10,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/PuebloSebece_TuCasa/border.bin",
+      "blockdata_filepath": "data/layouts/PuebloSebece_TuCasa/map.bin"
+    },
+    {
+      "id": "LAYOUT_PUEBLO_SEBECE_TU_PIEZA",
+      "name": "PuebloSebece_TuPieza_Layout",
+      "width": 7,
+      "height": 7,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "border_filepath": "data/layouts/PuebloSebece_TuPieza/border.bin",
+      "blockdata_filepath": "data/layouts/PuebloSebece_TuPieza/map.bin"
+    },
+    {
+      "id": "LAYOUT_PUEBLO_SEBECE_CASA_1",
+      "name": "PuebloSebece_Casa_1_Layout",
+      "width": 12,
+      "height": 10,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/PuebloSebece_Casa_1/border.bin",
+      "blockdata_filepath": "data/layouts/PuebloSebece_Casa_1/map.bin"
+    },
+    {
+      "id": "LAYOUT_PUEBLO_SEBECE_CASA_2",
+      "name": "PuebloSebece_Casa_2_Layout",
+      "width": 9,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/PuebloSebece_Casa_2/border.bin",
+      "blockdata_filepath": "data/layouts/PuebloSebece_Casa_2/map.bin"
     }
   ]
 }

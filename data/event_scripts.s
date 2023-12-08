@@ -1109,3 +1109,11 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/NewMap1/scripts.inc"
 
 	.include "data/maps/Ruta9/scripts.inc"
+
+	.include "data/maps/PuebloSebece_TuCasa/scripts.inc"
+
+	.include "data/maps/PuebloSebece_TuPieza/scripts.inc"
+
+	.include "data/maps/PuebloSebece_Casa_1/scripts.inc"
+
+	.include "data/maps/PuebloSebece_Casa_2/scripts.inc"

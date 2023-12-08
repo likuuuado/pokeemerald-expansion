@@ -616,6 +616,12 @@
 // gMapGroup_IndoorRoute124
 #define MAP_ROUTE124_DIVING_TREASURE_HUNTERS_HOUSE (0 | (33 << 8))
 
-#define MAP_GROUPS_COUNT 34
+// gMapGroup_InteriorSebece
+#define MAP_PUEBLO_SEBECE_TU_CASA  (0 | (34 << 8))
+#define MAP_PUEBLO_SEBECE_TU_PIEZA (1 | (34 << 8))
+#define MAP_PUEBLO_SEBECE_CASA_1   (2 | (34 << 8))
+#define MAP_PUEBLO_SEBECE_CASA_2   (3 | (34 << 8))
+
+#define MAP_GROUPS_COUNT 35
 
 #endif // GUARD_CONSTANTS_MAP_GROUPS_H
