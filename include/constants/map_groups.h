@@ -622,6 +622,20 @@
 #define MAP_PUEBLO_SEBECE_CASA_1   (2 | (34 << 8))
 #define MAP_PUEBLO_SEBECE_CASA_2   (3 | (34 << 8))
 
-#define MAP_GROUPS_COUNT 35
+// gMapGroup_InteriorDitoplaya
+
+// gMapGroup_InteriorNiamatina
+
+// gMapGroup_InteriorMonrosate
+
+// gMapGroup_InteriorGochami
+
+// gMapGroup_InteriorNionu
+
+// gMapGroup_InteriorAdaman
+
+// gMapGroup_InteriorRuta15
+
+#define MAP_GROUPS_COUNT 42
 
 #endif // GUARD_CONSTANTS_MAP_GROUPS_H

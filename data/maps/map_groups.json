@@ -34,7 +34,14 @@
     "gMapGroup_IndoorRoute123",
     "gMapGroup_IndoorRoute119",
     "gMapGroup_IndoorRoute124",
-    "gMapGroup_InteriorSebece"
+    "gMapGroup_InteriorSebece",
+    "gMapGroup_InteriorDitoplaya",
+    "gMapGroup_InteriorNiamatina",
+    "gMapGroup_InteriorMonrosate",
+    "gMapGroup_InteriorGochami",
+    "gMapGroup_InteriorNionu",
+    "gMapGroup_InteriorAdaman",
+    "gMapGroup_InteriorRuta15"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",
