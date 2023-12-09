@@ -644,12 +644,27 @@
 #define MAP_CIUDAD_MONROSATE_TUNEL  (3 | (37 << 8))
 
 // gMapGroup_InteriorGochami
+#define MAP_PUEBLO_GOCHAMI_CASA_SANADORA (0 | (38 << 8))
+#define MAP_PUEBLO_GOCHAMI_CASA1         (1 | (38 << 8))
+#define MAP_PUEBLO_GOCHAMI_CASA2         (2 | (38 << 8))
+#define MAP_PUEBLO_GOCHAMI_CASA3         (3 | (38 << 8))
 
 // gMapGroup_InteriorNionu
+#define MAP_CIUDAD_NIONU_PC           (0 | (39 << 8))
+#define MAP_CIUDAD_NIONU_TORNEO       (1 | (39 << 8))
+#define MAP_CIUDAD_NIONU_PUERTO       (2 | (39 << 8))
+#define MAP_CIUDAD_NIONU_GRAN_MERCADO (3 | (39 << 8))
+#define MAP_CIUDAD_NIONU_CASA1        (4 | (39 << 8))
 
 // gMapGroup_InteriorAdaman
+#define MAP_PUEBLO_ADAMAN_PC    (0 | (40 << 8))
+#define MAP_PUEBLO_ADAMAN_CUEVA (1 | (40 << 8))
+#define MAP_PUEBLO_ADAMAN_CASA1 (2 | (40 << 8))
+#define MAP_PUEBLO_ADAMAN_CASA2 (3 | (40 << 8))
+#define MAP_PUEBLO_ADAMAN_CASA3 (4 | (40 << 8))
 
 // gMapGroup_InteriorRuta15
+#define MAP_RUTA15_POSADA_LOS_YUYOS (0 | (41 << 8))
 
 #define MAP_GROUPS_COUNT 42
 

@@ -682,15 +682,26 @@
     "CiudadMonrosate_Tunel"
   ],
   "gMapGroup_InteriorGochami": [
-
+    "PuebloGochami_Casa_Sanadora",
+    "PuebloGochami_Casa1",
+    "PuebloGochami_Casa2",
+    "PuebloGochami_Casa3"
   ],
   "gMapGroup_InteriorNionu": [
-
+    "CiudadNionu_PC",
+    "CiudadNionu_Torneo",
+    "CiudadNionu_Puerto",
+    "CiudadNionu_GranMercado",
+    "CiudadNionu_Casa1"
   ],
   "gMapGroup_InteriorAdaman": [
-
+    "PuebloAdaman_PC",
+    "PuebloAdaman_Cueva",
+    "PuebloAdaman_Casa1",
+    "PuebloAdaman_Casa2",
+    "PuebloAdaman_Casa3"
   ],
   "gMapGroup_InteriorRuta15": [
-
+    "Ruta15_Posada_LosYuyos"
   ]
 }

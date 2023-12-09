@@ -1147,3 +1147,33 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/CiudadMonrosate_Torneo/scripts.inc"
 
 	.include "data/maps/CiudadMonrosate_Tunel/scripts.inc"
+
+	.include "data/maps/PuebloGochami_Casa_Sanadora/scripts.inc"
+
+	.include "data/maps/PuebloGochami_Casa1/scripts.inc"
+
+	.include "data/maps/PuebloGochami_Casa2/scripts.inc"
+
+	.include "data/maps/PuebloGochami_Casa3/scripts.inc"
+
+	.include "data/maps/CiudadNionu_PC/scripts.inc"
+
+	.include "data/maps/CiudadNionu_Torneo/scripts.inc"
+
+	.include "data/maps/CiudadNionu_Puerto/scripts.inc"
+
+	.include "data/maps/CiudadNionu_GranMercado/scripts.inc"
+
+	.include "data/maps/CiudadNionu_Casa1/scripts.inc"
+
+	.include "data/maps/PuebloAdaman_PC/scripts.inc"
+
+	.include "data/maps/PuebloAdaman_Cueva/scripts.inc"
+
+	.include "data/maps/PuebloAdaman_Casa1/scripts.inc"
+
+	.include "data/maps/PuebloAdaman_Casa2/scripts.inc"
+
+	.include "data/maps/PuebloAdaman_Casa3/scripts.inc"
+
+	.include "data/maps/Ruta15_Posada_LosYuyos/scripts.inc"

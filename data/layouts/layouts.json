@@ -4850,6 +4850,156 @@
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/CiudadMonrosate_Tunel/border.bin",
       "blockdata_filepath": "data/layouts/CiudadMonrosate_Tunel/map.bin"
+    },
+    {
+      "id": "LAYOUT_PUEBLO_GOCHAMI_CASA_SANADORA",
+      "name": "PuebloGochami_Casa_Sanadora_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/PuebloGochami_Casa_Sanadora/border.bin",
+      "blockdata_filepath": "data/layouts/PuebloGochami_Casa_Sanadora/map.bin"
+    },
+    {
+      "id": "LAYOUT_PUEBLO_GOCHAMI_CASA1",
+      "name": "PuebloGochami_Casa1_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/PuebloGochami_Casa1/border.bin",
+      "blockdata_filepath": "data/layouts/PuebloGochami_Casa1/map.bin"
+    },
+    {
+      "id": "LAYOUT_PUEBLO_GOCHAMI_CASA2",
+      "name": "PuebloGochami_Casa2_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/PuebloGochami_Casa2/border.bin",
+      "blockdata_filepath": "data/layouts/PuebloGochami_Casa2/map.bin"
+    },
+    {
+      "id": "LAYOUT_PUEBLO_GOCHAMI_CASA3",
+      "name": "PuebloGochami_Casa3_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/PuebloGochami_Casa3/border.bin",
+      "blockdata_filepath": "data/layouts/PuebloGochami_Casa3/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIUDAD_NIONU_PC",
+      "name": "CiudadNionu_PC_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CiudadNionu_PC/border.bin",
+      "blockdata_filepath": "data/layouts/CiudadNionu_PC/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIUDAD_NIONU_TORNEO",
+      "name": "CiudadNionu_Torneo_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CiudadNionu_Torneo/border.bin",
+      "blockdata_filepath": "data/layouts/CiudadNionu_Torneo/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIUDAD_NIONU_PUERTO",
+      "name": "CiudadNionu_Puerto_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CiudadNionu_Puerto/border.bin",
+      "blockdata_filepath": "data/layouts/CiudadNionu_Puerto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIUDAD_NIONU_GRAN_MERCADO",
+      "name": "CiudadNionu_GranMercado_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CiudadNionu_GranMercado/border.bin",
+      "blockdata_filepath": "data/layouts/CiudadNionu_GranMercado/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIUDAD_NIONU_CASA1",
+      "name": "CiudadNionu_Casa1_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CiudadNionu_Casa1/border.bin",
+      "blockdata_filepath": "data/layouts/CiudadNionu_Casa1/map.bin"
+    },
+    {
+      "id": "LAYOUT_PUEBLO_ADAMAN_PC",
+      "name": "PuebloAdaman_PC_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/PuebloAdaman_PC/border.bin",
+      "blockdata_filepath": "data/layouts/PuebloAdaman_PC/map.bin"
+    },
+    {
+      "id": "LAYOUT_PUEBLO_ADAMAN_CUEVA",
+      "name": "PuebloAdaman_Cueva_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/PuebloAdaman_Cueva/border.bin",
+      "blockdata_filepath": "data/layouts/PuebloAdaman_Cueva/map.bin"
+    },
+    {
+      "id": "LAYOUT_PUEBLO_ADAMAN_CASA1",
+      "name": "PuebloAdaman_Casa1_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/PuebloAdaman_Casa1/border.bin",
+      "blockdata_filepath": "data/layouts/PuebloAdaman_Casa1/map.bin"
+    },
+    {
+      "id": "LAYOUT_PUEBLO_ADAMAN_CASA2",
+      "name": "PuebloAdaman_Casa2_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/PuebloAdaman_Casa2/border.bin",
+      "blockdata_filepath": "data/layouts/PuebloAdaman_Casa2/map.bin"
+    },
+    {
+      "id": "LAYOUT_PUEBLO_ADAMAN_CASA3",
+      "name": "PuebloAdaman_Casa3_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/PuebloAdaman_Casa3/border.bin",
+      "blockdata_filepath": "data/layouts/PuebloAdaman_Casa3/map.bin"
+    },
+    {
+      "id": "LAYOUT_RUTA15_POSADA_LOS_YUYOS",
+      "name": "Ruta15_Posada_LosYuyos_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Ruta15_Posada_LosYuyos/border.bin",
+      "blockdata_filepath": "data/layouts/Ruta15_Posada_LosYuyos/map.bin"
     }
   ]
 }
