@@ -109,56 +109,56 @@
       "x": 7,
       "y": 13,
       "elevation": 0,
-      "dest_map": "MAP_CIUDAD_NIAMATINA",
+      "dest_map": "MAP_CIUDAD_NIAMATINA_PC",
       "dest_warp_id": "0"
     },
     {
       "x": 14,
       "y": 11,
       "elevation": 0,
-      "dest_map": "MAP_CIUDAD_NIAMATINA",
+      "dest_map": "MAP_CIUDAD_NIAMATINA_PM",
       "dest_warp_id": "0"
     },
     {
       "x": 22,
       "y": 10,
       "elevation": 0,
-      "dest_map": "MAP_CIUDAD_NIAMATINA",
+      "dest_map": "MAP_CIUDAD_NIAMATINA_TORNEO",
       "dest_warp_id": "0"
     },
     {
-      "x": 20,
-      "y": 21,
+      "x": 24,
+      "y": 18,
       "elevation": 0,
-      "dest_map": "MAP_CIUDAD_NIAMATINA",
+      "dest_map": "MAP_CIUDAD_NIAMATINA_CASA2",
       "dest_warp_id": "0"
     },
     {
       "x": 5,
       "y": 30,
       "elevation": 0,
-      "dest_map": "MAP_CIUDAD_NIAMATINA",
+      "dest_map": "MAP_CIUDAD_NIAMATINA_ESCONDITE",
       "dest_warp_id": "0"
     },
     {
       "x": 8,
       "y": 19,
       "elevation": 0,
-      "dest_map": "MAP_CIUDAD_NIAMATINA",
+      "dest_map": "MAP_CIUDAD_NIAMATINA_BODEGON",
       "dest_warp_id": "0"
     },
     {
       "x": 3,
       "y": 18,
       "elevation": 0,
-      "dest_map": "MAP_CIUDAD_NIAMATINA",
-      "dest_warp_id": "0"
+      "dest_map": "MAP_CIUDAD_NIAMATINA_CASA1_P1",
+      "dest_warp_id": "1"
     },
     {
       "x": 4,
       "y": 30,
       "elevation": 0,
-      "dest_map": "MAP_CIUDAD_NIAMATINA",
+      "dest_map": "MAP_CIUDAD_NIAMATINA_ESCONDITE",
       "dest_warp_id": "0"
     }
   ],
