@@ -21,15 +21,15 @@
       "x": 7,
       "y": 8,
       "elevation": 0,
-      "dest_map": "MAP_CIUDAD_NIONU_PC",
-      "dest_warp_id": "0"
+      "dest_map": "MAP_CIUDAD_NIONU",
+      "dest_warp_id": "2"
     },
     {
       "x": 6,
       "y": 8,
       "elevation": 0,
-      "dest_map": "MAP_CIUDAD_NIONU_PC",
-      "dest_warp_id": "0"
+      "dest_map": "MAP_CIUDAD_NIONU",
+      "dest_warp_id": "2"
     }
   ],
   "coord_events": [

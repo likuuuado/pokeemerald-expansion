@@ -46,14 +46,14 @@
       "x": 9,
       "y": 14,
       "elevation": 0,
-      "dest_map": "MAP_TUNEL_LAVADITO",
+      "dest_map": "MAP_PUEBLO_GOCHAMI_CASA1",
       "dest_warp_id": "0"
     },
     {
       "x": 10,
       "y": 23,
       "elevation": 0,
-      "dest_map": "MAP_PUEBLO_GOCHAMI",
+      "dest_map": "MAP_PUEBLO_GOCHAMI_CASA_SANADORA",
       "dest_warp_id": "0"
     },
     {
@@ -67,7 +67,7 @@
       "x": 17,
       "y": 10,
       "elevation": 0,
-      "dest_map": "MAP_PUEBLO_GOCHAMI",
+      "dest_map": "MAP_PUEBLO_GOCHAMI_CASA2",
       "dest_warp_id": "0"
     }
   ],

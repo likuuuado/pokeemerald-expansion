@@ -39,28 +39,28 @@
       "x": 12,
       "y": 7,
       "elevation": 0,
-      "dest_map": "MAP_PUEBLO_ADAMAN",
+      "dest_map": "MAP_PUEBLO_ADAMAN_CASA1",
       "dest_warp_id": "0"
     },
     {
       "x": 21,
       "y": 24,
       "elevation": 0,
-      "dest_map": "MAP_PUEBLO_ADAMAN",
+      "dest_map": "MAP_PUEBLO_ADAMAN_CUEVA",
       "dest_warp_id": "0"
     },
     {
       "x": 14,
       "y": 28,
       "elevation": 0,
-      "dest_map": "MAP_PUEBLO_ADAMAN",
+      "dest_map": "MAP_PUEBLO_ADAMAN_CASA3",
       "dest_warp_id": "0"
     },
     {
       "x": 4,
       "y": 15,
       "elevation": 0,
-      "dest_map": "MAP_PUEBLO_ADAMAN",
+      "dest_map": "MAP_PUEBLO_ADAMAN_CASA2",
       "dest_warp_id": "0"
     }
   ],

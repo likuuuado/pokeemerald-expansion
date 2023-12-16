@@ -34,35 +34,35 @@
       "x": 29,
       "y": 24,
       "elevation": 0,
-      "dest_map": "MAP_CIUDAD_NIONU",
+      "dest_map": "MAP_CIUDAD_NIONU_PUERTO",
       "dest_warp_id": "0"
     },
     {
       "x": 12,
       "y": 9,
       "elevation": 0,
-      "dest_map": "MAP_CIUDAD_NIONU",
+      "dest_map": "MAP_CIUDAD_NIONU_PC",
       "dest_warp_id": "0"
     },
     {
       "x": 21,
       "y": 15,
       "elevation": 0,
-      "dest_map": "MAP_CIUDAD_NIONU",
+      "dest_map": "MAP_CIUDAD_NIONU_CASA1",
       "dest_warp_id": "0"
     },
     {
       "x": 20,
       "y": 10,
       "elevation": 0,
-      "dest_map": "MAP_CIUDAD_NIONU",
+      "dest_map": "MAP_CIUDAD_NIONU_TORNEO",
       "dest_warp_id": "0"
     },
     {
       "x": 10,
       "y": 15,
       "elevation": 0,
-      "dest_map": "MAP_CIUDAD_NIONU",
+      "dest_map": "MAP_CIUDAD_NIONU_GRAN_MERCADO",
       "dest_warp_id": "0"
     }
   ],
